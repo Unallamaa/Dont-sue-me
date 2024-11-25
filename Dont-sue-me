@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Don't Sue Me</title>
+  </head>
+  <body>
+    <h1>Don't Sue Me Please</h1>
+    <style>
+      h1 {
+        Color: white;
+        Font-family: Sans-serif, arial, times-new-roman;
+        Text-align: center;
+        Text-size: 64px;
+      }
+      body {
+        background-color: #000000;
+      }
+    </style>
+  </body>
+</html>
